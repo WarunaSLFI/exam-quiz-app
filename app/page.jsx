@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 const subjects = [
-  { slug: 'html', emoji: '🌐', name: 'HTML', questions: 10 },
+  { slug: 'html', emoji: '🌐', name: 'HTML', questions: 40 },
   { slug: 'css', emoji: '🎨', name: 'CSS', questions: 10 },
   { slug: 'javascript', emoji: '⚡', name: 'JavaScript', questions: 10 },
 ];
